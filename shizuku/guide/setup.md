@@ -1,3 +1,38 @@
+# 2. Wireless Activation
+
+**If you are using Huawei or some phones that don't have wireless debugging options, see** [**Wired Activation**](https://jasons-tutorials.gitbook.io/gg-mouse-pro-tutorial/activation-how-to-activate/1.-wired-activation-computer-needed) **tutorial**
+
+**We recommend everyone who has computers to use**  [**Wired Activation**](https://jasons-tutorials.gitbook.io/gg-mouse-pro-tutorial/activation-how-to-activate/1.-wired-activation-computer-needed)
+
+Please [contact us](#official-accounts) if you have any questions
+
+## Video Tutorial
+
+Link: <https://youtu.be/ugH8W9LJJNc?si=hka3G_xW0Wm4sU_w>
+
+{% embed url="<https://youtu.be/ugH8W9LJJNc>" %}
+
+## **Official Accounts**
+
+<figure><img src="https://842271520-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMLrIUhDIPDA6puFgEi0Q%2Fuploads%2Fb2oMacisr6cpgQFq3rrg%2Ftwitter_and_instagram.png?alt=media&#x26;token=f4762c14-c708-49f3-81a5-a93b8b6ce671" alt=""><figcaption></figcaption></figure>
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information that is not directly available in this page, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on the current page URL with the `ask` query parameter:
+
+```
+GET https://jasons-tutorials.gitbook.io/gg-mouse-pro-tutorial/activation-how-to-activate/2.-wireless-activation.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.
 # User manual
 
 [[toc]]
